@@ -1,0 +1,2 @@
+# CanadaPost
+GetRates API
